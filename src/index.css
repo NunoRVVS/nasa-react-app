@@ -111,7 +111,7 @@ footer button:hover {
   padding: 1rem;
   /* overflow-y: scroll; */
   height: 100%;
-  width: 90%;
+  width: 100%;
   max-width: 800px;
   margin: auto;
   background-color: #242424;
